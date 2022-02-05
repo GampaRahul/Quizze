@@ -1,0 +1,139 @@
+Which operator is overloaded for a cout object?
+a) >>
+b) <<
+c) <
+d) > 
+<<
+
+Which of the following is not a type of inheritance?
+a) Multiple
+b) Multilevel
+c) Distributive
+d) Hierarchical
+Distributive
+
+What is the size of a character literal in C and C++?
+a) 4 and 1
+b) 1 and 4
+c) 1 and 1
+d) 4 and 4
+ 4 and 1
+
+Which concept is used to implement late binding?
+a)Virtual functions
+b)Operator functions
+c)Constant functions
+d)Static functions
+Virtual functions
+
+Which of the following feature is not provided by C?
+a)Pointers
+b)Structures
+c)References
+d)Functions 
+References
+
+Assuming int is of 4bytes, what is the size of int arr[15];?
+a) 15
+b) 19
+c) 11
+d) 60
+60
+
+In linked list each node contain minimum of two fields. One field is data field to store the data second field is?
+a) Pointer to character
+b) Pointer to integer
+c) Pointer to node
+d) Node
+Pointer to node
+
+______________ have the return type void.
+a) all functions
+b) constructors
+c) destructors
+d) none of the mentioned
+destructors
+
+Which reference modifier is used to define the reference variable?
+a) &
+b) $
+c) #
+d) @ 
+&
+
+What does HTML stands for?
+a) Hypertext Machine language.
+b) Hypertext and links markup language.
+c) Hypertext Markup Language.
+d) Hightext machine language.
+Hypertext Markup Language.
+
+Which of the following function must use reference.
+a) Assignment operator function
+b) Copy Constructor
+c) Destructor
+d) Parameterized constructor 
+Copy Constructor
+
+Which data structure can be used to test a palindrome?
+a) Tree
+b) Heap
+c) Stack
+d) Priority queue
+Stack
+
+What will be used when terminating a structure?
+a) :
+b) }
+c) ;
+d) ;; 
+;
+
+Which of the following HTML element is used for creating an unordered list?
+a)<ui>
+b)<i>
+c)<em>
+d)<ul>
+<ul>
+
+What is an AVL tree?
+a) a tree which is balanced and is a height balanced tree
+b) a tree which is unbalanced and is a height balanced tree
+c) a tree with three children
+d) a tree with atmost 3 children
+a tree which is balanced and is a height balanced tree
+
+The switch statement is also called as?
+a) choosing structure
+b) selective structure
+c) certain structure
+d) bitwise structure 
+selective structure
+
+How many heading tags are there in HTML5?
+a) 2
+b) 3
+c) 5
+d) 6
+6
+
+Where does the execution of the program starts?
+a) user-defined function
+b) main function
+c) void function
+d) else function 
+main function
+
+Which of the following tags is used to make a portion of text italic in HTML?
+a) <italic>
+b) <style= “i”>
+c) <i>
+d) <style=“italic”>
+<i>
+
+Which of the following correctly declares an array?
+a) int arr[20];
+b) int arr;
+c) arr{20};
+d) array arr[20];
+int arr[20];

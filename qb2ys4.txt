@@ -1,0 +1,139 @@
+Which tag is used to add an header in HTML5 table?
+a) <theader>
+b) <h1>
+c) <th>
+d) <header>
+<th>
+
+What is a dequeue?
+a) A queue with insert/delete defined for both front and rear ends of the queue
+b) A queue implemented with a doubly linked list
+c) A queue implemented with both singly and doubly linked lists
+d) A queue with insert/delete defined for front side of the queue
+A queue with insert/delete defined for both front and rear ends of the queue
+
+How many heading tags are there in HTML5?
+a) 2
+b) 3
+c) 5
+d) 6
+6
+
+Which of the following HTML element is used for creating an unordered list?
+a) <ui>
+b) <i>
+c) <em>
+d) <ul>
+<ul>
+
+Which operator is having the right to left associativity in the following?
+a) Array subscripting
+b) Function call
+c) Addition and subtraction
+d) Type cast
+Type cast
+
+What is the maximum height of an AVL tree with p nodes?
+a) p
+b) log(p)
+c) log(p)/2
+d) p/2
+log(p)
+
+The if..else statement can be replaced by which operator?
+a) Bitwise operator
+b) Conditional operator
+c) Multiplicative operator
+d) Addition operator 
+Conditional operator
+
+Which of the following attributes is used to add link to any element?
+a) link
+b) ref
+c) href
+d) newref
+href
+
+Elements in an array are accessed _____________
+a) randomly
+b) sequentially
+c) exponentially
+d) logarithmically
+sequentially
+
+How many types of comments are there in c++?
+a) 1
+b) 2
+c) 3
+d) 4
+2
+
+Which tag is used to add an header in HTML5 table?
+a) <theader>
+b) <h1>
+c) <th>
+d) <header>
+<th>
+
+What is the purpose of using div tags in HTML?
+a) For creating Different styles.
+b) For creating different sections.
+c) For adding headings.
+d) For adding titles.
+For creating different sections.
+
+Pushing an element into stack already having five elements and stack size of 5, then stack becomes
+a) Overflow
+b) Crash
+c) Underflow
+d) User flow
+Overflow
+
+Which is more effective while calling the functions?
+a) call by value
+b) call by reference
+c) call by pointer
+d) call by object 
+call by reference
+
+In linked list each node contain minimum of two fields. One field is data field to store the data second field is?
+a) Pointer to character
+b) Pointer to integer
+c) Pointer to node
+d) Node
+Pointer to node
+
+Which of the following is the default return value of functions in C++?
+a) int
+b) char
+c) float
+d) void 
+int
+
+When we define the default values for a function?
+a) When a function is defined
+b) When a function is declared
+c) When the scope of the function is over
+d) When a function is called 
+When a function is declared
+
+How many children does a binary tree have?
+a) 2
+b) any number of children
+c) 0 or 1 or 2
+d) 0 or 1
+0 or 1 0r 2
+
+Which of the following attributes is used to open an hyperlink in new tab?
+a) tab
+b) href
+c) target
+d) ref
+target
+
+Which of the following is true about variable naming conventions in JavaScript?
+a) JavaScript variable names must begin with a letter or the underscore character.
+b) JavaScript variable names are case sensitive.
+c) Both of the above.
+d) none of the above
+Both of the above.

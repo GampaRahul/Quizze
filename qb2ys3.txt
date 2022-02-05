@@ -1,0 +1,132 @@
+which of the following tag is used to mark a begining of paragraph ?
+a) <TD>	
+b) <br>
+c) <P>	
+d) <TR>
+<P>
+
+Assuming int is of 4bytes, what is the size of int arr[15];?
+a) 15
+b) 19
+c) 11
+d) 60
+60
+
+The optimal data structure used to solve Tower of Hanoi is _________
+a) Tree
+b) Heap
+c) Priority queue
+d) Stack
+Stack
+
+Which of the following will not return a value?
+a) null
+b) void
+c) empty
+d) free 
+void
+
+The attribute of <form> tag
+a) Method
+b) Action
+c) Both (a)&(b)
+d) None of these
+Both (a)&(b)
+
+What is the size of a character literal in C and C++?
+a) 4 and 1
+b) 1 and 4
+c) 1 and 1
+d) 4 and 4
+4 and 1
+
+Markup tags tell the web browser
+a) How to organise the page
+b) How to display the page
+c) How to display message box on page
+d) None of these
+How to display the page
+
+Which of the following ways can be used to represent a graph?
+a) Adjacency List and Adjacency Matrix
+b) Incidence Matrix
+c) Adjacency List, Adjacency Matrix as well as Incidence Matrix
+d) No way to represent
+Adjacency List, Adjacency Matrix as well as Incidence Matrix
+
+Which of the following is not a type of inheritance?
+a) Multiple
+b) Multilevel
+c) Distributive
+d) Hierarchical
+Distributive
+
+What does HTML stands for?
+a) Hypertext Machine language.
+b) Hypertext and links markup language.
+c) Hypertext Markup Language.
+d) Hightext machine language.
+Hypertext Markup Language.
+
+What is the index number of the last element of an array with 9 elements?
+a) 9
+b) 8
+c) 0
+d) Programmer-defined
+8
+
+Which of the following is true?
+a) A graph may contain no edges and many vertices
+b) A graph may contain many edges and no vertices
+c) A graph may contain no edges and no vertices
+d) A graph may contain no vertices and many edges
+A graph may contain no edges and many vertices
+
+Which reference modifier is used to define the reference variable?
+a) &
+b) $
+c) #
+d) @ 
+&
+
+Web pages starts with which of the following tag?
+a) <Body>
+b)<Title>
+c) <HTML>
+d) <Form>
+<HTML>
+
+If several elements are competing for the same bucket in the hash table, what is it called?
+a) Diffusion
+b) Replication
+c) Collision
+d) Duplication
+Collision
+
+Which of the following function must use reference.
+a) Assignment operator function
+b) Copy Constructor
+c) Destructor
+d) Parameterized constructor 
+Copy Constructor
+
+HTML is a subset of
+a) SGMT
+b) SGML
+c) SGMD	
+d) None of these
+SGML
+
+The optimal data structure used to solve Tower of Hanoi is _________
+a) Tree
+b) Heap
+c) Priority queue
+d) Stack
+Stack
+
+Which of the following is a container?
+a) <SELECT>
+b) <BODY>
+c) <INPUT>	
+d) Both (a) and (b)
+Both (a) and (b)

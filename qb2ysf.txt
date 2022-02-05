@@ -1,0 +1,160 @@
+Which of these best describes an array?
+a) A data structure that shows a hierarchical behaviour
+b) Container of objects of similar types
+c) Arrays are immutable once initialised
+d) Array is not a data structure
+Container of objects of similar types
+
+Select a String function that creates a string and display in a big font as if it were in a tag?
+a) anchor()
+b) big()
+c) blink()
+d) italics()
+big()
+
+When does the void pointer can be dereferenced?
+a) when it doesn't point to any value
+b) when it cast to another type of object
+c) using delete keyword
+d) using shift keyword   Ans:b
+when it cast to another type of object
+
+Which of the following c code is used to create new node?
+a) ptr = (NODE*)malloc(sizeof(NODE));
+b) ptr = (NODE*)malloc(NODE);
+c) ptr = (NODE*)malloc(sizeof(NODE*));
+d) ptr = (NODE)malloc(sizeof(NODE));
+ptr = (NODE*)malloc(sizeof(NODE));
+
+Which of the following function of String object would compare a regular expression with a string?
+a) concat()
+b) search()
+c) replace()
+d) match()
+match()
+
+Which of the following correctly declares an array?
+a) int array[10];
+b) int array;
+c) array{10};
+d) array array[10]; 
+int array[10];
+
+What is the time complexity of deleting from the rear end of the dequeue implemented with a singly linked list?
+a) O(nlogn)
+b) O(logn)
+c) O(n)
+d) O(n2)
+O(n)
+
+28.	______________ have the return type void.
+a) all functions
+b) constructors
+c) destructors
+d) none of the mentioned 
+destructors
+
+What is the number of edges present in a complete graph having n vertices?
+a) (n*(n+1))/2
+b) (n*(n-1))/2
+c) n
+d) Information given is insufficient
+(n*(n-1))/2
+
+Which of the following is true?
+a) A graph may contain no edges and many vertices
+b) A graph may contain many edges and no vertices
+c) A graph may contain no edges and no vertices
+d) A graph may contain no vertices and many edges
+A graph may contain no edges and many vertices
+
+Which of the following function of Array object returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found?
+a) indexOf()
+b) join()
+c) lastIndexOf()
+d) map()
+lastIndexOf()
+
+In simple uniform hashing, what is the search complexity?
+a) O(n)
+b) O(logn)
+c) O(nlogn)
+d) O(1)
+O(1)
+
+When we define the default values for a function?
+a) When a function is defined
+b) When a function is declared
+c) When the scope of the function is over
+d) When a function is called 
+When a function is declared
+
+<DT> tag is designed to fit a single line of our web page but <DD> tag will accept a
+a) line of text
+b) full paragraph
+c) word
+d) request
+full paragraph
+
+What is the maximum height of an AVL tree with p nodes?
+a) p
+b) log(p)
+c) log(p)/2
+d) p/2
+log(p)
+
+How to declare a wide character in the string literal?
+a) L prefix
+b) l prefix
+c) W prefix
+d) Z prefix 
+L prefix
+
+Markup tags tell the web browser
+a) How to organise the page
+b) How to display the page
+c) How to display message box on page
+d) None of these
+How to display the page
+
+The size of an object or a type can be determined using which operator?
+a) malloc
+b) sizeof
+c) malloc
+d) calloc 
+sizeof
+
+When does the ArrayIndexOutOfBoundsException occur?
+a) Compile-time
+b) Run-time
+c) Not an error
+d) Not an exception at all
+Run-time
+
+Which of the following is the correct way to add background color in HTML?
+a) <body color = �green�>
+b) <body bg-color = �green�>
+c) <body style = �background-color=green�>
+d) <body style = �background-color: green;�>
+<body style = �background-color: green;�>
+
+Which of the following will not return a value?
+a) null
+b) void
+c) empty
+d) free 
+void
+
+Which of the following c code is used to create new node?
+a) ptr = (NODE*)malloc(sizeof(NODE));
+b) ptr = (NODE*)malloc(NODE);
+c) ptr = (NODE*)malloc(sizeof(NODE*));
+d) ptr = (NODE)malloc(sizeof(NODE));
+ptr = (NODE*)malloc(sizeof(NODE));
+
+What is the other name of run-time polymorphism?
+a) Static polymorphism
+b) Dynamic polymorphism
+c) Executing polymorphism
+d) Non-executing polymorphism 
+Dynamic polymorphism

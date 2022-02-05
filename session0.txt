@@ -1,0 +1,347 @@
+WWW stands for ?
+a) World Whole Web
+b) Wide World Web
+c) Web World Wide
+d) World Wide Web
+World Wide Web
+
+Which of the following are components of Central Processing Unit(CPU) ?
+a) Arithmetic logic unit, Memory unit
+b) Arithmetic logic unit, Control unit
+c) Arithmetic logic unit, Integrated Circuits
+d) Control Unit, Hard disk
+Arithmetic logic unit, control unit
+
+Which among following first generation of computers had ?
+a) Vaccum Tubes and Magnetic Drum
+b) Integrated Circuits
+c) Magnetic Tape and Transistors
+d) All of above
+Vaccum Tubes and Magnetic Drum
+
+Where is RAM located ?
+a) Expansion Board
+b) External Drive
+c) Mother Board
+d) All of above
+Mother board
+
+If a computer has more than one processor then it is known as ______ computer?
+a) Uniprocess
+b) Multiprocessor
+c) Multithreaded
+d) Multiprogramming
+Multiprocessor
+
+If a computer provides database services to other, then it will be known as ?
+a) Web server
+b) Application server
+c) Database server
+d) FTP server
+Database server
+
+Full form of URL is ?
+a) Uniform Resource Locator
+b) Uniform Resource Link
+c) Uniform Registered Link
+d) Unified Resource Link
+Uniform Resource Locator
+
+In which of the following form, data is stored in computer ?
+a) Decimal
+b) Binary
+c) HexaDecimal
+d) Octal
+Binary
+
+Technology used to provide internet by transmitting data over wires of telephone network is ?
+a) Transmitter
+b) Diodes
+c) HHL
+d) DSL
+DSL
+
+Which level language is Assembly Language ?
+a) high-level programming language
+b) medium-level programming language
+c) low-level programming language
+d) machine language
+low-level programming language
+
+Documents, Movies, Images and Photographs etc are stored at a?
+a) Application Sever
+b) Web Sever
+c) Print Server
+d) File Server
+File Server
+
+Which of following is used in RAM ?
+a) Conductor
+b) Semi Conductor
+c) Vaccum Tubes
+d) Transistor
+Semi Conductor
+
+What is full form of GUI in terms of computers ?
+a) Graphical user Instrument
+b) Graphical unified Interface
+c) Graphical unified Instrument
+d) Graphical user Interface
+Graphical user Interface
+
+What is full form of ALU ?
+a) Arithmetic logic unit
+b) Allowed logic unit
+c) Ascii logic unit
+d) Arithmetic least unit
+Arithmetic logic unit
+
+Who was the Founder of Bluetooth ?
+a) Ericson
+b) Martin Cooper
+c) Steve Jobs
+d) Apple
+Ericson
+
+Who was the father of Internet ?
+a) Chares Babbage
+b) Vint Cerf
+c) Denis Riche
+d) Martin Cooper
+Vint Cerf
+
+Which among following is commonly used language in Android applications ?
+a) C
+b) Php
+c) C++
+d) Java
+JAVA
+
+Where are saved files stored in computer ?
+a) RAM
+b) Hard disk
+c) Cache
+d) Any of above
+Hard disk
+
+Which among following is odd ?
+a) CD/DVD
+b) Floopy Disks
+c) SD Disk
+d) BIOS
+BIOS
+
+Which operations are performed by RAM ?
+a) Read
+b) Write
+c) Read and Write
+d) None of the above
+Read and Write
+
+Which among following is secondary storage device ?
+a) Hard Disk
+b) RAM
+c) Diode
+d) Semi Conductor
+Hard Disk
+
+USB is which type of storage device ?
+a) Primay
+b) Secondary
+c) Tertiary
+d) None of these
+Tertiary
+
+Which program is run by BIOS to check hardware components
+are working properly while computer is turned ON ?
+a) DMOS
+b) POST
+c) CMOS
+d) RIP
+POST
+
+Verification is process of ?
+a) Access
+b) Login
+c) Logout
+d) Authentication
+Authentication
+
+What is LINUX ?
+a) Malware
+b) Operating System
+c) Application Program
+d) Firmware
+Operating System
+
+What is the name of first super computer of India ?
+a) Saga 
+b) PARAM
+c) ENIAC
+d) PARAM 
+PARAM 
+
+Which is most common language used in web designing ?
+a) C
+b) C++
+c) PHP
+d) HTML
+HTML
+
+Who is also known as Father of Computer ?
+a) Vint Cerf
+b) Tim Berner Lee
+c) Charles Babbage
+d) Steve Jobs
+Charles Babbage
+
+ROM is non volatile)
+a) TRUE
+b) FALSE
+TRUE
+
+Random Access Memory (RAM) is which storage of device?
+a) Primay
+b) Secondary
+c) Teriary
+d) Off line
+Primay
+
+Random Access Memory (RAM) is non volatile in nature
+a) TRUE
+b) FALSE
+FALSE
+
+What is full form CMOS ?
+a) Content Metal Oxide Semiconductor
+b) Complementary Metal Oxide Semiconductor
+c) Complementary Metal Oxygen Semiconductor
+d) Complementary Metal Oscilator Semiconductor
+Complementary Metal Oxide Semiconductor
+
+Second generation of computers consist of which of following ?
+a) Vaccum Tubes
+b) Diodes
+c) VLSI Microprocessor
+d) Transistors
+Transistors
+
+MPG is an file extension of which type of files ?
+a) Audio
+b) Image
+c) Video
+d) Flash
+Video
+
+What is full form of SMPS ?
+a) Switch Mode Power Supply
+b) Simple Mode Power Supply
+c) Storage Mode Power Supply
+d) Storage Mode Power Shortage
+Switch Mode Power Supply
+
+Which component of computer is also considered as it Heart ?
+a) Monitor
+b) Keyboard
+c) Scanner
+d) Microprocessor
+Microprocessor
+
+What is used to make computer chips ?
+a) Copper
+b) Steel
+c) Silicon
+d) Iron
+Silicon
+
+Where BIOS is stored ?
+a) Hard Disk
+b) RAM
+c) Flash Memory Chip
+d) Any of above
+Flash Memory Chip
+
+What is full form of EXIF ?
+a) Exchangeable Image Fine Finish
+b) Exchangeable Image File Format
+c) Executable Image File Format
+d) Executable Image File Finish
+Exchangeable Image File Format
+
+BIOS is used for ?
+a) Updating system information on network
+b) Loading operating system
+c) It helps in routing
+d) It take inputs from keywords and other devices
+Loading operating system
+
+Mega Byte is equal to
+a)  Bytes
+b)  Kilo Bytes
+c)  Giga Bits
+d)  Bits
+ Kilo Bytes
+
+An electronic path, that sends signals from one part of computer to another is ?
+a) Logic Gate
+b) Modem
+c) Bus
+d) Serial Port
+Bus
+
+Which is odd one ?
+a) Inkjet Printers
+b) CRT
+c) Laser Printers
+d) Dot Matrix Printers
+CRT
+
+Which device among following is used for sending digital data over a phone line ?
+a) USB
+b) Scanner
+c) Printer
+d) Modem
+Modem
+
+IP address version  is in which format ?
+a)  bit
+b)  bit
+c)  bit
+d)  bit
+ bit
+
+In banking, railways etc which computers are used ?
+a) Mini Computers
+b) Micro Computers
+c) Main Frames
+d) Super Computers
+Main Frames
+
+Which type of software is an operating system ?
+a) Utility Software
+b) System Software
+c) Application Software
+d) Firmware Software
+System Software
+
+Which type of switching is used in Internet ?
+a) Packet
+b) Telephone
+c) Circuit
+d) Telex
+Packet
+
+Microsoft office is type of ?
+a) System software
+b) Application software
+c) Utility Software
+d) Firmware
+Application software
+
+Intersection of columns and rows is called a ?
+a) Data
+b) Table
+c) Cell
+d) Schema
+Cell
+
